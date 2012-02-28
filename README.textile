@@ -1,1 +1,1 @@
-Download "here":http://dl.dropbox.com/u/2149116/MuteOnLock.exe
+Utility which automatically mutes the sound when you are locking your Windows workstation. Download "here":http://dl.dropbox.com/u/2149116/MuteOnLock.exe
